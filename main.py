@@ -49,7 +49,7 @@ if api_key and channel_input:
                 if info.get("custom_url"):
                     st.markdown(f"🔗 [youtube.com/{info['custom_url']}](https://www.youtube.com/{info['custom_url']})")
 
-                st.markdown(f"📍 地區：`{info.get('country', '未知')}`")
+                st.markdown(f"📍 國家：`{info.get('country', '未知')}`")
 
                 if info.get("published_at"):
                     dt = datetime.fromisoformat(info["published_at"].replace("Z", "+00:00"))
