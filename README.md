@@ -101,5 +101,6 @@ streamlit run main.py
 
 ---
 
-## 🙌 開發者 [余彦志](https://github.com/dayuian)  
+## 🙌 開發者 
+[余彦志(大宇/ian)](https://github.com/dayuian)  
 若你喜歡這個專案，歡迎 🌟 Star！
