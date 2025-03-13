@@ -102,7 +102,5 @@ streamlit run main.py
 
 ---
 
-## 🙌 開發者
-
-由 [ChatGPT + 使用者](https://github.com/your-username) 協作完成  
+## 🙌 開發者 [余彦志](https://github.com/dayuian)  
 若你喜歡這個專案，歡迎 🌟 Star！
